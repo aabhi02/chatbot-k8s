@@ -1,7 +1,7 @@
 import streamlit as st
 from botG import query
 
-st.title("Bot G(Powered by Google)")
+st.title("Bot G 😎")
 
 # Initialize chat history
 if "messages" not in st.session_state:
